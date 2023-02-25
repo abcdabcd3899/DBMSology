@@ -1,0 +1,14 @@
+{
+    "MD033": {
+        "allowed_elements": [
+            "br",
+            "img"
+        ]
+    },
+    "MD013": {
+        "line_length": 2000
+    },
+    "MD029": {
+        "style": "ordered"
+    }
+}
