@@ -1,8 +1,8 @@
 # Database Systems Reading List
 
-![Github stars](https://img.shields.io/github/stars/abcdabcd3899/DBMSology-Darkness.svg)
-![License](https://img.shields.io/github/license/abcdabcd3899/DBMSology-Darkness.svg)
-![Stars](https://img.shields.io/github/forks/abcdabcd3899/DBMSology-Darkness.svg)
+![Github stars](https://img.shields.io/github/stars/abcdabcd3899/DBMSology.svg)
+![License](https://img.shields.io/github/license/abcdabcd3899/DBMSology.svg)
+![Stars](https://img.shields.io/github/forks/abcdabcd3899/DBMSology.svg)
 
 I'm interested in the intersection between machine learning and systems. You are welcome to make a pull request!
 
